@@ -1,0 +1,12 @@
+#title {
+    background-color: rgb(236, 0, 140);
+    width: 250px;
+    font-size: 20px;
+    font-family: arial;
+    text-align: center;
+    position: relative;
+    left: 50%;
+    transform: translate( -50%, -50%)
+
+    
+}
